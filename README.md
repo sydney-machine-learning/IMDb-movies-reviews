@@ -38,5 +38,9 @@ For review summarisation, we call the BART model from Huggingface (fine-tuned ba
 
 https://huggingface.co/datasets/rohitsaxena/MovieSum
 
+## Acknowledgement
+
+This project was conducted as part of the doctoral research at the University of New South Wales (UNSW). It focuses on the analysis of IMDb movie reviews and is intended for publication in the IEEE Access journal. I would like to express my sincere gratitude to my supervisor, Professor Rohitash Chandra, for his invaluable guidance and continuous support throughout the research process.
+
 
 
