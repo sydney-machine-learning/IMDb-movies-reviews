@@ -9,6 +9,9 @@ The IMDb-movies-reviews project achieves its goal of analyzing a large volume of
 
 3. What trajectory of change do English-speaking audiences hope to see in future films?
  
+## ！Notice！
+
+This project requires no complex commands. All files have been modified to run with a single click, immediately generating the corresponding images and results.
 
 ## Directory Structure
 
@@ -41,6 +44,7 @@ https://huggingface.co/datasets/rohitsaxena/MovieSum
 ## Acknowledgement
 
 This project was conducted as part of the doctoral research at the University of New South Wales (UNSW). It focuses on the analysis of IMDb movie reviews and is intended for publication in the IEEE Access journal. I would like to express my sincere gratitude to my supervisor, Professor Rohitash Chandra, for his invaluable guidance and continuous support throughout the research process.
+
 
 
 
