@@ -24,4 +24,19 @@ The IMDb-movies-reviews project achieves its goal of analyzing a large volume of
 
 │ └── Raw data and analysis/ #Reviews extracted from IMDb website.
 
+## Models and Datasets
+
+You can download all our raw data (reviews) via this link. https://www.kaggle.com/datasets/mlopssss/imdb-movie-reviews-grouped-by-ratings
+
+For abuse detection and sentiment analysis, we downloaded the dataset via 2 links and fine-tuned the DistilBERT model by calling it from Hugging Face. 
+
+https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset/data
+
+https://www.kaggle.com/datasets/debarshichanda/goemotions
+
+For review summarisation, we call the BART model from Huggingface (fine-tuned based on MovieSum dataset) to handle the text summarisation. 
+
+https://huggingface.co/datasets/rohitsaxena/MovieSum
+
+
 
