@@ -1,0 +1,1 @@
+For <go_emotions_trained_model>, readers can train a DistilBERT model based on the GoEmotions dataset, its very easy to obtain a new set of weights.

@@ -1,0 +1,1 @@
+Based on your demand,  you can download the glove.twitter.27B.50d (or 25D version, very easy to obtain via Google). Because the file is too large, I dont show this file here. 

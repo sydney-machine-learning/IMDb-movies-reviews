@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70e4766c-8760-4e55-9358-3f0297c1ca7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/4cases/imdb_reviews_tt11315808_Joker2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4cases/imdb_reviews_tt14513804_captain.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4cases/imdb_reviews_tt6208148_snowwhite.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4cases/imdb_reviews_tt7286456_Joker.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labeled_data_for_hate_content.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model/special_tokens_map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model/tokenizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model/tokenizer_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model/vocab.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;001Alexander&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sydney-machine-learning/IMDb-movies-reviews.git&quot;,
+    &quot;accountId&quot;: &quot;79558372-bb0b-47b3-9757-10314bf5aa6b&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showToolbar" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2m89U2qcevoxT77UqDf9J25cneB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.0 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27emotionsclassfification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3mainsentiments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BERTsentiment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chromedriver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gemini_KEY_API (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gemini_KEY_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GloVe_vector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hatespeechdataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IMDB_Metadata_Get (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.IMDB_Metadata_Get.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abuse detection test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bi&amp;trigrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bi_tri_grams (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.bi_tri_grams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ciyun (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ciyuntu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cudatest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detectionofhatecontent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emoji_finding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter_ratings (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter_ratings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.hatespeechpercent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hatespeechpredictionforreviews.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hatespeechtraining.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hebing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.length (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberofmovies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quantizationplots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.radar plot (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.reviewsgettingviarating.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reviewslabels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scatter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scatterplot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sentiment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sentiment_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stopwords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wordcloud.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowProblems.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IMDb movie reviews analysis&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pytorch Training" />
+      <recent name="D:\Pytorch Training\HateXplain-master" />
+      <recent name="D:\Pytorch Training\high_frequency_words" />
+      <recent name="D:\Pytorch Training\Reviews" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.quantizationplots">
+    <configuration name="3mainsentiments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4cases/3mainsentiments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hatespeechdataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hatespeechdataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abuse detection test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abuse detection test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quantizationplots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (python310gpu)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4cases" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4cases/quantizationplots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch Training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/go_emotions_label_visualisation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/go_emotions_label_visualisation/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.3mainsentiments" />
+      <item itemvalue="Python.Hatespeechdataset" />
+      <item itemvalue="Python.abuse detection test" />
+      <item itemvalue="Python.quantizationplots" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.quantizationplots" />
+        <item itemvalue="Python.3mainsentiments" />
+        <item itemvalue="Python.abuse detection test" />
+        <item itemvalue="Python.Hatespeechdataset" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e4766c-8760-4e55-9358-3f0297c1ca7f" name="Changes" comment="" />
+      <created>1726447348741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726447348741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tsv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
