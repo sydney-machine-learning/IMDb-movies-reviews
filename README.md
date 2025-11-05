@@ -13,6 +13,7 @@ The IMDb-movies-reviews project achieves its goal of analyzing a large volume of
 ## Directory Structure
 
 ├── IMDb movie reviews analysis
+
 │ ├── 4cases/ # Using a comprehensive technical framework, we analyzed the four selected films and obtained the results.
 
 │ ├── High_grequency_words/ # Used to convert reviews into text vectors and predict ratings based on cosine similarity.
@@ -22,4 +23,5 @@ The IMDb-movies-reviews project achieves its goal of analyzing a large volume of
 │ ├── Processed data and plots/ #Raw data with labels.
 
 │ └── Raw data and analysis/ #Reviews extracted from IMDb website.
+
 
